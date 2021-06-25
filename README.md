@@ -1,7 +1,11 @@
 # MinageEvent
-pocketmine plugin Minage configurable
 
-Avec la commande /addWorld, vous pouvez ajouter un monde comme étant un monde de minage 
+pocketmine plugin Minage configurable permettant de définir un monde comme étant un monde de minage
+
+------
+## Commande
+
+/addworld
 
 ------
 
