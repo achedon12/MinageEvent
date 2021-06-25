@@ -11,5 +11,5 @@ pocketmine plugin Minage configurable permettant de définir un monde comme éta
 
 ## Permission
 
-permission : use.addWorld
+    use.addWorld
 
